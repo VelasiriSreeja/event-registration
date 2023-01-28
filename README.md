@@ -27,8 +27,9 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+[Event Registration.pdf](https://github.com/VelasiriSreeja/event-registration/files/10528038/Event.Registration.pdf)
 
-[Event Registration.pdf](https://github.com/VelasiriSreeja/event-registration/files/10528035/Event.Registration.pdf)
+
 
 ## Result:
 Hence we designed, developed and deployed a UX design for event registration
